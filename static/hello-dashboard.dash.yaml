@@ -17,6 +17,10 @@ pages:
                 type: BARCHART
                 lookup:
                     uuid: hello
+          - settings:
+                type: PIECHART
+                lookup:
+                    uuid: hello
                     group:
                         - columnGroup:
                               source: Column 0
